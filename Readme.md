@@ -7,4 +7,4 @@
 ![System Overview](./graph/overview.png)
 ## DEMO
 ### &nbsp; Low SNR / Low Iter &emsp;&emsp; Low SNR / Moderate Iter &emsp;&ensp; Low SNR / High Iter &emsp;&emsp;&emsp; High SNR / Low Iter
-<img src="./graph/cat_1.gif" width="200" height="320"/> &nbsp; <img src="./graph/cat_2.gif" width="200" height="320"/> &nbsp; <img src="./graph/cat_3.gif" width="200" height="320"/> &nbsp; <img src="./graph/cat_4.gif" width="200" height="320"/>
+<img src="./graph/cat_1.gif" width="175" height="280"/> &nbsp; <img src="./graph/cat_2.gif" width="175" height="280"/> &nbsp; <img src="./graph/cat_3.gif" width="175" height="280"/> &nbsp; <img src="./graph/cat_4.gif" width="175" height="280"/>
